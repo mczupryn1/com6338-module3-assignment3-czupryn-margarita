@@ -1,4 +1,4 @@
-var trueOrFalseString = 'True or False: '
+var trueOrFalseString = 'True or False:'
 
 var questionsArr = [
     { question: trueOrFalseString + "German chocolate cake was invented in Texas", 
